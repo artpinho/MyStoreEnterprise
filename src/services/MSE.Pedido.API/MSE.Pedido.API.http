@@ -1,0 +1,6 @@
+@MSE.Pedido.API_HostAddress = http://localhost:5163
+
+GET {{MSE.Pedido.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
